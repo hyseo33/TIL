@@ -19,7 +19,7 @@ idol = {
 }
 #3. 딕셔너리 value 가져오기
 # print(idol['bts']['RM']) # []로 접근해서 뽑아내기! bts를 고르니까 딕셔너리 나옴. 그래서 또 key를 써서 뽑아냄.
-# print(idol.get('bts').get('RM'))
+# print(idol.get('bts').get('RM')) #중간에 값이 없으면 []는 멈춤, .get은 넘어가서 error를 만들지 않음.
 
 #4. 딕셔너리 반복문 활용하기
 #4-1. 기본활용
