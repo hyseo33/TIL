@@ -1,0 +1,47 @@
+<!--style 적용 우선순위-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>09_css_priority</title>
+    <style>
+        /* style 적용 우선순위 */
+        /* 6. 상위 객체에 의한 상속된 속성 */
+
+        div {
+            color: darkorange;
+        }
+
+        /* 5. 태그 이름으로 지정한 속성 */
+
+        h1 {
+            color: darkmagenta;
+        }
+
+        /* 4. 클래스 이름으로 지정한 속성 */
+        .drink {
+            color: darkseagreen;
+        }
+        
+        /* 3. id로 지정한 속성 */
+        #tea {
+            color: deepskyblue;
+        }
+
+        /* 2. HTML에서 inline styling을 한 경우 */
+        
+        /* 1. (최강자) 속성값 뒤에 !important를 붙인 속성 */
+        h1 {
+            color: black !important;
+        }
+
+    </style>
+</head>
+<body>
+    <div>
+        <h1 id="tea" class="drink" style="color: goldenrod">자몽허니블랙티</h1>
+    </div>
+</body>
+</html>

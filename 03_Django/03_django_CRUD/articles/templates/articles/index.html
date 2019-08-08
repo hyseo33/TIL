@@ -1,0 +1,16 @@
+{% extends 'base.html' %}
+
+{% block body %}
+    <h1 class="text-center">MY FIRST CRUD</h1>
+    <hr>
+    <a href="/articles/new/">[글쓰기]</a>
+    <hr>
+    {% for article in articles %}
+    <p>글 번호: {{ article.id }}</p>
+    <p>제목: {{ article.title }}</p>
+    <!-- <p>내용: {{ article.content }}</p> -->
+    <a href="/articles/{{ article.pk }}/">[내용 보러 가자]</a>
+    <hr>
+    {% endfor%}
+
+{% endblock %}

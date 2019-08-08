@@ -1,0 +1,11 @@
+/* 4번째가 ol > li이면 바꾸고 지금은 p태그이므로 아니면 바꾸지 않음 */
+ol > li:nth-child(4) {
+    background: rebeccapurple;
+}
+
+
+/*li 중에서 4번째에 위치한 li를 찾는다*/
+/* ol > li:nth-of-type(4) {
+    background: rebeccapurple;
+} */
+
