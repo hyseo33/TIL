@@ -1,7 +1,7 @@
 {% extends 'base.html' %}
 
 {% block body %}
-    <h1>글쓰기</h1>
+    <h1>Writing</h1>
     <form action="/articles/create/" method="POST">
         {% csrf_token %}
         <label for="title"></label>
@@ -9,7 +9,7 @@
         <br>
 
         <label for="content"></label>
-        <textarea name="content" id="content" cols="30" rows="10"></textarea> <br>
+        <textarea name="content" id="content" cols="50" rows="10"></textarea> <br>
         <input type="submit" value="글쓰기">
     </form>
 {% endblock %}

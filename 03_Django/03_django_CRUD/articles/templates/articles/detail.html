@@ -8,6 +8,8 @@
     <p>글 작성 시각: {{ article.create_at }}</p>
     <p>글 수정 시각: {{ article.update_at }}</p>
     <hr>
+    <a href="/articles/{{ article.pk }}/edit/" target="_blank">[글 수정하기]</a>
+    <hr>
     <a href="/articles/{{ article.pk }}/delete/">[글 삭제]</a> <br>
     <hr>
     <a href="/articles/">[메인으로]</a>
