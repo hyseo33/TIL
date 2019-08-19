@@ -20,5 +20,5 @@ for tc in range(T):
             if isFill(N, i, j) == False:
                 data[i][j] = (j+1)
             if isFill(N, i, j):
-                
+
     print(data)

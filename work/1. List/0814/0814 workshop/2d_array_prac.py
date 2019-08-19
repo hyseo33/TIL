@@ -23,13 +23,14 @@ for tc in range(T):
             sum_4 += arr[j][99-j]
 
 
-            if sum_1 > max_sum:
-                max_sum = sum_1
-            if sum_2 > max_sum:
-                max_sum = sum_2
-            if sum_3 > max_sum:
-                max_sum = sum_3
-            if sum_4 > max_sum:
-                max_sum = sum_4
+        if sum_1 > max_sum:
+            max_sum = sum_1
+        if sum_2 > max_sum:
+            max_sum = sum_2
+        if sum_3 > max_sum:
+            max_sum = sum_3
+        if sum_4 > max_sum:
+            max_sum = sum_4
+            # 인덴팅 유의, 굳이 j for문 안에 비교 조건문이 있을 필요가 없었음.
 
     print('#{} {}'.format(tc+1, max_sum))
