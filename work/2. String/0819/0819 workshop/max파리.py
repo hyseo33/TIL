@@ -9,3 +9,7 @@ for tc in range(T):
         data[i] = list(map(int, input().split()))
     print(N, M)
     print(data)
+
+    # for i in range(M-N+1):
+    #     for j in range(M-N+1):
+

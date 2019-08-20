@@ -2,18 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2cea383b-bc58-43ca-a423-07facbde04c1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/2. String/0819/0819 workshop/max파리.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. String/0819/0819 workshop/p_input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. String/0819/0819 workshop/palindrome.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. String/0819/0819 workshop/파리_input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. String/0819/atoi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. String/0819/bit암호화.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. String/0819/brute_고지식방법.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. String/0819/itoa.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. String/0819/ord_chr.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. String/0819/reverse_prac.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. String/0819/str_repr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/190820 실습/서혜영_0820/max회문.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/190820 실습/서혜영_0820/권대민.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/190820 실습/서혜영_0820/이현우.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/190820 실습/서혜영_0820/최장회문찾기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/190820 실습/서혜영_0820/회문2_input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2. String/0820/0820 workshop/GNS.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2. String/0819/0819 workshop/max파리.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. String/0819/0819 workshop/max파리.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,149 +21,124 @@
     <session id="-640711800">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
-          <entry key="project.open.time.2" value="2" />
-          <entry key="project.open.time.3" value="4" />
+          <entry key="project.closed" value="10" />
+          <entry key="project.open.time.2" value="5" />
+          <entry key="project.open.time.3" value="5" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.opened" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="numcard_input" value="2" />
-          <entry key="py" value="130" />
-          <entry key="txt" value="48" />
+          <entry key="py" value="161" />
+          <entry key="txt" value="60" />
           <entry key="view_input" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="52" />
-          <entry key="Python" value="130" />
+          <entry key="PLAIN_TEXT" value="64" />
+          <entry key="Python" value="161" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="22" />
-          <entry key="py" value="16477" />
+          <entry key="py" value="20454" />
           <entry key="txt" value="101" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="123" />
-          <entry key="Python" value="16477" />
+          <entry key="Python" value="20454" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.6513158">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/2. String/0819/brute_고지식방법.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state>
-                  <folding>
-                    <marker date="1566195612133" expanded="true" signature="701:702" ph="..." />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/2. String/0819/0819 workshop/palindrome.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state>
-                  <caret selection-end-line="1" selection-end-column="31" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/2. String/0819/0819 workshop/max파리.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="150">
-                  <caret line="10" column="15" lean-forward="true" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/1. List/0814/2D_array.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="240">
-                  <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
-                  <folding>
-                    <marker date="1565750339933" expanded="true" signature="86:193" ph="..." />
-                    <marker date="1565750339933" expanded="true" signature="283:438" ph="..." />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/1. List/0814/2D_input.txt">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="60">
-                  <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/1. List/0814/BinarySearch.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="75">
-                  <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/1. List/0814/input_2gen.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="105">
-                  <caret line="7" selection-start-line="7" selection-end-line="10" selection-end-column="66" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/1. List/0814/input.txt">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="75">
-                  <caret line="5" selection-start-line="5" selection-end-line="5" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/1. List/0816/0816 workshop/screw.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="75">
-                  <caret line="5" selection-start-line="5" selection-end-line="7" selection-end-column="43" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/2. String/0819/0819 workshop/파리_input.txt">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1590">
-                  <caret line="106" selection-start-line="106" selection-end-line="106" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2. String/0819/reverse_prac.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/2. String/0819/0819 workshop/palindrome.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/190820 실습/서혜영_0820/max회문.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="51" lean-forward="true" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/190820 실습/서혜영_0820/권대민.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="525">
+              <caret line="35" column="13" lean-forward="true" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2. String/0819/str_repr.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2. String/0819/ord_chr.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2. String/0819/itoa.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+              <folding>
+                <marker date="1566190601681" expanded="true" signature="173:174" ph="..." />
+                <marker date="1566190601681" expanded="true" signature="173:422" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2. String/0819/brute_고지식방법.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+              <folding>
+                <marker date="1566195612133" expanded="true" signature="701:702" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -182,18 +153,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/1. List/0813/dump.py" />
-        <option value="$PROJECT_DIR$/1. List/0813/dump_input.txt" />
-        <option value="$PROJECT_DIR$/sub_lect/536.py" />
-        <option value="$PROJECT_DIR$/sub_lect/537.py" />
-        <option value="$PROJECT_DIR$/sub_lect/538.py" />
-        <option value="$PROJECT_DIR$/sub_lect/539.py" />
-        <option value="$PROJECT_DIR$/sub_lect/540.py" />
-        <option value="$PROJECT_DIR$/sub_lect/541.py" />
-        <option value="$PROJECT_DIR$/190813 실습/0813_서혜영/elec_bus_2.py" />
-        <option value="$PROJECT_DIR$/1. List/0814/input.txt" />
-        <option value="$PROJECT_DIR$/1. List/0814/input_2gen.py" />
-        <option value="$PROJECT_DIR$/1. List/0814/2D_arry.py" />
         <option value="$PROJECT_DIR$/1. List/0814/2D_input.txt" />
         <option value="$PROJECT_DIR$/1. List/0814/2D_array.py" />
         <option value="$PROJECT_DIR$/1. List/0814/trans_matrix.py" />
@@ -233,12 +192,24 @@
         <option value="$PROJECT_DIR$/2. String/0819/0819 workshop/palindrome.py" />
         <option value="$PROJECT_DIR$/2. String/0819/0819 workshop/파리_input.txt" />
         <option value="$PROJECT_DIR$/2. String/0819/0819 workshop/max파리.py" />
+        <option value="$PROJECT_DIR$/190820 실습/글자수_input.txt" />
+        <option value="$PROJECT_DIR$/190820 실습/글자수.py" />
+        <option value="$PROJECT_DIR$/190820 실습/회문_input.txt" />
+        <option value="$PROJECT_DIR$/190820 실습/회문.py" />
+        <option value="$PROJECT_DIR$/190820 실습/문자열_input.txt" />
+        <option value="$PROJECT_DIR$/190820 실습/문자열비교.py" />
+        <option value="$PROJECT_DIR$/190820 실습/서혜영_0820/회문2_input.txt" />
+        <option value="$PROJECT_DIR$/190820 실습/서혜영_0820/이현우.py" />
+        <option value="$PROJECT_DIR$/190820 실습/서혜영_0820/최장회문찾기.py" />
+        <option value="$PROJECT_DIR$/2. String/0820/0820 workshop/GNS.py" />
+        <option value="$PROJECT_DIR$/190820 실습/서혜영_0820/권대민.py" />
+        <option value="$PROJECT_DIR$/190820 실습/서혜영_0820/max회문.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-7" />
-    <option name="width" value="845" />
+    <option name="x" value="495" />
+    <option name="width" value="1432" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -259,36 +230,6 @@
             <path>
               <item name="work" type="b2602c69:ProjectViewProjectNode" />
               <item name="work" type="462c0819:PsiDirectoryNode" />
-              <item name="1. List" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="work" type="b2602c69:ProjectViewProjectNode" />
-              <item name="work" type="462c0819:PsiDirectoryNode" />
-              <item name="1. List" type="462c0819:PsiDirectoryNode" />
-              <item name="0812" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="work" type="b2602c69:ProjectViewProjectNode" />
-              <item name="work" type="462c0819:PsiDirectoryNode" />
-              <item name="1. List" type="462c0819:PsiDirectoryNode" />
-              <item name="0814" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="work" type="b2602c69:ProjectViewProjectNode" />
-              <item name="work" type="462c0819:PsiDirectoryNode" />
-              <item name="1. List" type="462c0819:PsiDirectoryNode" />
-              <item name="0816" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="work" type="b2602c69:ProjectViewProjectNode" />
-              <item name="work" type="462c0819:PsiDirectoryNode" />
-              <item name="1. List" type="462c0819:PsiDirectoryNode" />
-              <item name="0816" type="462c0819:PsiDirectoryNode" />
-              <item name="0816 workshop" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="work" type="b2602c69:ProjectViewProjectNode" />
-              <item name="work" type="462c0819:PsiDirectoryNode" />
               <item name="2. String" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -303,6 +244,28 @@
               <item name="2. String" type="462c0819:PsiDirectoryNode" />
               <item name="0819" type="462c0819:PsiDirectoryNode" />
               <item name="0819 workshop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="work" type="b2602c69:ProjectViewProjectNode" />
+              <item name="work" type="462c0819:PsiDirectoryNode" />
+              <item name="2. String" type="462c0819:PsiDirectoryNode" />
+              <item name="0820" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="work" type="b2602c69:ProjectViewProjectNode" />
+              <item name="work" type="462c0819:PsiDirectoryNode" />
+              <item name="190816 실습" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="work" type="b2602c69:ProjectViewProjectNode" />
+              <item name="work" type="462c0819:PsiDirectoryNode" />
+              <item name="190820 실습" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="work" type="b2602c69:ProjectViewProjectNode" />
+              <item name="work" type="462c0819:PsiDirectoryNode" />
+              <item name="190820 실습" type="462c0819:PsiDirectoryNode" />
+              <item name="서혜영_0820" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -326,8 +289,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.max파리">
-    <configuration name="bit암호화" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.max회문">
+    <configuration name="권대민" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="work" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -335,11 +298,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2. String/0819" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/190820 실습/서혜영_0820" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2. String/0819/bit암호화.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/190820 실습/서혜영_0820/권대민.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -348,7 +311,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="brute_고지식방법" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="최장회문찾기" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="work" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -356,11 +319,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2. String/0819" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/190820 실습/서혜영_0820" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2. String/0819/brute_고지식방법.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/190820 실습/서혜영_0820/최장회문찾기.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -369,7 +332,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="itoa" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="이현우" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="work" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -377,11 +340,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2. String/0819" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/190820 실습/서혜영_0820" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2. String/0819/itoa.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/190820 실습/서혜영_0820/이현우.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -390,7 +353,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="max파리" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="GNS" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="work" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -398,11 +361,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2. String/0819/0819 workshop" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2. String/0820/0820 workshop" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2. String/0819/0819 workshop/max파리.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2. String/0820/0820 workshop/GNS.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -411,7 +374,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="palindrome" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="회문" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="work" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -419,11 +382,74 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2. String/0819/0819 workshop" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/190820 실습" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2. String/0819/0819 workshop/palindrome.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/190820 실습/회문.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="문자열비교" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/190820 실습" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/190820 실습/문자열비교.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="최장회문찾기" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/190820 실습/서혜영_0820" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/190820 실습/서혜영_0820/최장회문찾기.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="max회문" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/190820 실습/서혜영_0820" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/190820 실습/서혜영_0820/max회문.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -433,19 +459,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.itoa" />
-      <item itemvalue="Python.brute_고지식방법" />
-      <item itemvalue="Python.bit암호화" />
-      <item itemvalue="Python.palindrome" />
-      <item itemvalue="Python.max파리" />
+      <item itemvalue="Python.최장회문찾기" />
+      <item itemvalue="Python.이현우" />
+      <item itemvalue="Python.max회문" />
+      <item itemvalue="Python.GNS" />
+      <item itemvalue="Python.권대민" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.max파리" />
-        <item itemvalue="Python.palindrome" />
-        <item itemvalue="Python.bit암호화" />
-        <item itemvalue="Python.brute_고지식방법" />
-        <item itemvalue="Python.itoa" />
+        <item itemvalue="Python.max회문" />
+        <item itemvalue="Python.권대민" />
+        <item itemvalue="Python.GNS" />
+        <item itemvalue="Python.최장회문찾기" />
+        <item itemvalue="Python.이현우" />
       </list>
     </recent_temporary>
   </component>
@@ -463,16 +489,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="845" height="1047" extended-state="0" />
+    <frame x="495" y="0" width="1432" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24659231" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14275466" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32899022" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24013157" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.44078946" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.23574561" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.43865365" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -540,6 +566,26 @@
           <line>9</line>
           <option name="timeStamp" value="38" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/2. String/0819/0819 workshop/max파리.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/190820 실습/서혜영_0820/최장회문찾기.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/190820 실습/서혜영_0820/회문.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/190820 실습/서혜영_0820/max회문.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
@@ -547,100 +593,70 @@
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
-        <watch expression="j+N+1" language="Python" />
+        <watch expression="arr[k][i]" language="Python" />
+        <watch expression="arr[k][99-i]" language="Python" />
+        <watch expression="k" language="Python" />
+        <watch expression="i" language="Python" />
+        <watch expression="99-i" language="Python" />
+        <watch expression="l//2" language="Python" />
       </configuration>
     </watches-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="watch">
       <expression>
-        <expression-string>j+N+1</expression-string>
+        <expression-string>l//2</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>result[l-1][0]</expression-string>
+        <expression-string>99-i</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>result[l][0]</expression-string>
+        <expression-string>i</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>a[1]</expression-string>
+        <expression-string>k</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>result[l-1][1]</expression-string>
+        <expression-string>arr[k][99-i]</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>a[0]</expression-string>
+        <expression-string>arr[k][i]</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>arr[j]</expression-string>
+        <expression-string>i+j</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>arr[i]</expression-string>
+        <expression-string>str2[i+j]</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>len(data)-1</expression-string>
+        <expression-string>str1[j]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>str2[i]</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/1. List/BubbleSort.py" />
-    <entry file="file://$PROJECT_DIR$/1. List/view_2.py" />
-    <entry file="file://$PROJECT_DIR$/190816 실습/s_sorting_input.txt" />
-    <entry file="file://$PROJECT_DIR$/190813 실습/0813_서혜영/min_max.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1. List/0814/0814 workshop/snail.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" selection-start-line="10" selection-end-line="14" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/190816 실습/color_input.txt" />
-    <entry file="file://$PROJECT_DIR$/190816 실습/special_sorting.py" />
-    <entry file="file://$PROJECT_DIR$/1. List/0814/0814 workshop/2D_array.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="15" lean-forward="true" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/190816 실습/binary_input.txt" />
-    <entry file="file://$PROJECT_DIR$/190816 실습/set_input.txt" />
-    <entry file="file://$PROJECT_DIR$/190813 실습/0813_서혜영/prefix_sum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="33" lean-forward="true" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/190816 실습/binary_serching.py" />
-    <entry file="file://$PROJECT_DIR$/190816 실습/color.py" />
-    <entry file="file://$PROJECT_DIR$/190816 실습/sub_set_sum.py" />
-    <entry file="file://$PROJECT_DIR$/1. List/0816/prac.py" />
-    <entry file="file://$PROJECT_DIR$/1. List/0816/screw_input.txt" />
     <entry file="file://$PROJECT_DIR$/1. List/0816/screw.py" />
     <entry file="file://$PROJECT_DIR$/1. List/0812/BubbleSort.py">
       <provider selected="true" editor-type-id="text-editor" />
@@ -667,31 +683,10 @@
     <entry file="file://$PROJECT_DIR$/1. List/0812/view_solve_0813.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/2. String/0819/reverse_prac.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2. String/0819/ord_chr.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/2. String/0819/atoi.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="20" column="14" lean-forward="true" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2. String/0819/str_repr.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -757,48 +752,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+    <entry file="file://$PROJECT_DIR$/2. String/0819/0819 workshop/p_input.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="270">
+          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2. String/0819/brute_고지식방법.py">
+    <entry file="file://$PROJECT_DIR$/1. List/0814/input_2gen.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <marker date="1566195612133" expanded="true" signature="701:702" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2. String/0819/itoa.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding>
-            <marker date="1566190601681" expanded="true" signature="173:174" ph="..." />
-            <marker date="1566190601681" expanded="true" signature="173:422" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1. List/0814/2D_array.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
-          <folding>
-            <marker date="1565750339933" expanded="true" signature="86:193" ph="..." />
-            <marker date="1565750339933" expanded="true" signature="283:438" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1. List/0814/2D_input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="10" selection-end-column="66" />
         </state>
       </provider>
     </entry>
@@ -816,45 +780,170 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2. String/0819/0819 workshop/p_input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2. String/0819/0819 workshop/palindrome.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/2. String/0819/0819 workshop/파리_input.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1590">
-          <caret line="106" selection-start-line="106" selection-end-line="106" />
+        <state relative-caret-position="298">
+          <caret line="99" column="32" lean-forward="true" selection-start-line="99" selection-start-column="32" selection-end-line="99" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1. List/0814/2D_array.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/190820 실습/글자수_input.txt" />
+    <entry file="file://$PROJECT_DIR$/190820 실습/회문_input.txt" />
+    <entry file="file://$PROJECT_DIR$/1. List/0814/2D_input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/1. List/0814/BinarySearch.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+        <state relative-caret-position="210">
+          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1. List/0814/input_2gen.py">
+    <entry file="file://$PROJECT_DIR$/190820 실습/문자열_input.txt" />
+    <entry file="file://$PROJECT_DIR$/190820 실습/회문.py" />
+    <entry file="file://$PROJECT_DIR$/190820 실습/글자수.py" />
+    <entry file="file://$PROJECT_DIR$/190820 실습/문자열비교.py" />
+    <entry file="file://$PROJECT_DIR$/190816 실습/0816_서혜영/특별한정렬.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="41" lean-forward="true" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/190820 실습/서혜영_0820/이현우.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/190820 실습/서혜영_0820/최장회문찾기.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/190820 실습/서혜영_0820/회문.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2. String/0820/0820 workshop/GNS_test_input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="8" lean-forward="true" selection-start-line="1" selection-start-column="7" selection-end-line="19" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2. String/0820/0820 workshop/GNS.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret line="7" selection-start-line="7" selection-end-line="10" selection-end-column="66" />
+          <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/190820 실습/서혜영_0820/글자수.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/2. String/0819/0819 workshop/max파리.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="15" lean-forward="true" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+        <state relative-caret-position="225">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/190820 실습/서혜영_0820/회문2_input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1530">
+          <caret line="102" column="68" selection-start-line="102" selection-start-column="68" selection-end-line="102" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2. String/0819/itoa.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding>
+            <marker date="1566190601681" expanded="true" signature="173:174" ph="..." />
+            <marker date="1566190601681" expanded="true" signature="173:422" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2. String/0819/brute_고지식방법.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+          <folding>
+            <marker date="1566195612133" expanded="true" signature="701:702" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2. String/0819/reverse_prac.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2. String/0819/ord_chr.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2. String/0819/str_repr.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/190820 실습/서혜영_0820/max회문.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="51" lean-forward="true" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/190820 실습/서혜영_0820/권대민.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="13" lean-forward="true" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2. String/0819/0819 workshop/palindrome.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
         </state>
       </provider>
     </entry>
