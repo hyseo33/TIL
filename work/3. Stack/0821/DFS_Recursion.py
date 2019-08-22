@@ -14,8 +14,8 @@ for i in range(0, len(temp), 2):
     G[temp[i+1]][temp[i]] = 1
 
 
-for i in range(V+1):
-    print('{} {}'.format(i, G[i]))
+# for i in range(V+1):
+#     print('{} {}'.format(i, G[i]))
 
 def dfs(v):
     visited[v] = 1
