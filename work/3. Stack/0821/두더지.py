@@ -1,6 +1,11 @@
 def dfs(i, j):
+    if cnt == 0:
+        visited[i][j] = 1
+    elif cnt == 1:
+        visited[i][j] = 2
+    elif cnt == 2:
+        visited[i][j] = 3
 
-    visited[i][j] = 1
 
     dx = [0, 0, -1, 1]
     dy = [-1, 1, 0, 0]
@@ -29,5 +34,24 @@ for x in range(N):
             dfs(x, y)
             cnt += 1
 
-print(visited)
+# for i in range(N):
+#     print('{} {}'.format(i, visited[i]))
+
+cnt1 = 0
+cnt2 = 0
+cnt3 = 0
+
+for x in range(N):
+    for y in range(N):
+        if visited[x][y] == 1:
+            cnt1 += 1
+        elif visited[x][y] == 2:
+            cnt2 += 1
+        elif visited[x][y] == 3:
+            cnt3 += 1
+
 print(cnt)
+print(cnt3)
+print(cnt2)
+print(cnt1)
+

@@ -12,7 +12,7 @@ while i < 10:
     if c[i] >= 3: #triplete 조사 후 데이터 삭제
         c[i] -= 3
         tri += 1
-        continue;
+        continue
     if c[i] >= 1 and c[i+1] >= 1 and c[i+2] >= 1: #run 조사 후 데이터 삭제
         c[i] -= 1
         c[i+1] -= 1
