@@ -29,7 +29,7 @@ for tc in range(1, T+1):
     for x in range(len(datas)):
         i = datas[x][0]
         j = datas[x][1]
-        arr[i][j] = 1
+        arr[i][j] = 1 # 인접행렬 체크
 
     dfs(S)
 

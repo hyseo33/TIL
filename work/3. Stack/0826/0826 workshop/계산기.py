@@ -7,7 +7,7 @@ for tc in range(1, T+1):
     N = int(input())
     arr = list(input())
 
-    print(arr)
+    # print(arr)
     nums = ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9']
     priority = ['(', '+', '*']
     stack = []
@@ -15,6 +15,10 @@ for tc in range(1, T+1):
 
     # print(priority.index('+'))
     # print(priority.index('*'))
+    # priority.remove('(')
+    # print(priority)
+
+
     for i in range(N):
         if arr[i] == '(':
             stack.append(arr[i])
@@ -35,19 +39,32 @@ for tc in range(1, T+1):
             else:
                 stack.append(arr[i])
 
-        # elif arr[i] == ')':
-        #     while 1:
-        #         result.append(stack.pop())
-        #         if stack[-1] == '(':
-        #             stack.remove(stack[-1])
-        #             break
+        elif arr[i] == ')':
+            while stack[-1] != '(':
+                result.append(stack.pop())
+            stack.pop()
 
     while len(stack) != 0:
         result.append(stack.pop())
 
+    print(tc)
     print(result)
     print(stack)
 
+    result_stack = []
+    for i in range(len(result)):
+        if result[i] in nums:
+            result_stack.append(int(result[i]))
+        elif result == '*':
+            b = int(result_stack.pop())
+            a = int(result_stack.pop())
+            c =  a * b
+            result_stack.append(c)
+        elif result == '+':
+            y = int(result_stack.pop())
+            x = int(result_stack.pop())
+            z = x + y
+    print(result_stack)
     # acc = '7-8+9'
     # print(acc)
     # print(7-8+9)
