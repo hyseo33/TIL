@@ -2,7 +2,7 @@
 
 {% block body %}
     <h2 class="text-center">Aticles</h2>
-    <a href="{% url 'articles:new' %}">[글 작성]</a>
+    <a href="{% url 'articles:create' %}">[글 작성]</a>
     
     {% for article in articles %}
     <p>글 번호: {{ article.id }}</p>
