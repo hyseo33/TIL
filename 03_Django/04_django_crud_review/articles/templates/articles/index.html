@@ -1,7 +1,9 @@
 {% extends 'base.html' %}
+{% load static %}
 
 {% block body %}
     <h2 class="text-center">Aticles</h2>
+    <img src="{% static 'articles/images/cold.jpg' %}" alt="cold-woman">
     <a href="{% url 'articles:create' %}">[글 작성]</a>
     
     {% for article in articles %}

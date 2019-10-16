@@ -1,15 +1,20 @@
 {% extends 'base.html' %}
+{% load static %}
 
 {% block body %}
     <h2 class="text-center">NEW</h2>
-    <form action="{% url 'articles:create' %}" method="POST">
+    <img src="{% static 'images/rabbit.png' %}" alt="rabbit">
+    <img src="{% static 'articles/images/cold.jpg' %}" alt="cold-woman">
+    <form action="{% url 'articles:create' %}" method="POST" enctype="multipart/form-data">
         {% csrf_token %}
         <label for="title">Title</label>
         <input type="text" name="title" id="title"><br>
         <label for="content">Content</label>
         <textarea name="content" id="content" cols="30" rows="10"></textarea><br>
+        <label for="image">Image</label>
+        <input type="file" name="image" id="image" accept="image/*"><br>
         <input type="submit" value="글 작성">
     </form>
     <hr>
-    <a href="{% url 'articles:index' %}}">[메인 페이지]</a>
+    <a href="{% url 'articles:index' %}">[메인 페이지]</a>
 {% endblock %}
