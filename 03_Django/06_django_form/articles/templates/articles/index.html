@@ -10,15 +10,9 @@
     <a href="{% url 'articles:create' %}"><b>[글 작성]</b></a>
     {% else %}
     <a href="{% url 'accounts:login' %}"><b>[LOGIN 하세용..♥]</b></a>
-    {% endif %}
-   
+    {% endif %}   
     <hr>
     {% for article in articles %}
-        <p>글 번호: {{ article.pk }}</p>
-        <p>글 제목: {{ article.title }}</p>
-        <i><p>작성자: {{ article.user }}</p></i>
-        <a href="{% url 'articles:detail' article.pk %}">[글 상세보기]</a>
-        <hr>
-    {% endfor %}
-    
+        {% include "articles/_article.html" %}
+    {% endfor %}    
 {% endblock %}
