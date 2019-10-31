@@ -14,7 +14,7 @@ for (var i = 0; i < colors.length; i++) {
   console.log(colors[i])
 }
 
-// ES6
+// ES6+
 const COLORS = ['red', 'blue', 'green']
 
 COLORS.forEach(function(color) {
@@ -288,7 +288,20 @@ const USERS = [
 // 화살표 문법으로 표현하면
 const user = USERS.find( user => user.name === 'tony')
 console.log(user)
-*/
+
+// find Ex1.
+// PEOPLE 중에 admin 권한을 가진 요소를 찾아서 admin 상수에 저장해보자!
+const PEOPLE =[
+  { id: 1, admin: false },
+  { id: 2, admin: false },
+  { id: 3, admin: true },
+]
+
+const admin = PEOPLE.find(function(person) {
+  return person.admin === true
+})
+console.log(admin)
+
 
 // 6. some & every
 // some과 every는 대상 배열에서 특정 요소를 뽑거나, 배열을 return 하지 않고
@@ -305,3 +318,23 @@ console.log(result) // true
 // 배열 내의 모든 요소가 주어진 함수를 통과하는지 테스트하고 결과에 따라 boolean return
 const RESULT = arr.every( elem => elem % 2 === 0)
 console.log(RESULT) // false
+*/
+
+// some & every Ex1.
+const COMPUTER = [
+  { name: 'macbook', ram: 16 },
+  { name: 'gram', ram: 8 },
+  { name: 'series9', ram: 32 },
+]
+
+// 1. some
+const someComputersAvailable = COMPUTER.some(function(computer) {
+  return computer.ram > 16
+})
+console.log(someComputersAvailable)
+
+// 2. every
+const everyComputersAvailable = COMPUTER.every(function(computer) {
+  return computer.ram > 16
+})
+console.log(everyComputersAvailable)
