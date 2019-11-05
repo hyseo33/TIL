@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+</head>
+<body>
+  <div id="app">
+    <span v-text="name"></span>
+    <span>{{ name }}</span>
+
+    {{ name2 }}
+    <!-- html로 만들어서 출력해줌-->
+    <span v-html="name2"></span>
+
+    <p v-if="false">{{ name3 }}</p>
+    <!-- if는 렌더링 자체를 안하고, show는 일단 렌더링하고 보여주지 않음. (개발자도구에서 확인가능)-->
+    <p v-show="false">{{ name3 }}</p>
+  </div>
+  
+  <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+  <script>
+    const app = new Vue({
+      el: '#app',
+      data: {
+        name: 'hyeyoung',
+        name2: '<h1>h1태그</h1>',
+        name3: 'hyseo33',
+      }
+    })
+  </script>
+</body>
+</html>
