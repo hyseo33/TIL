@@ -24,7 +24,7 @@
         <button v-on:click="addTodo">+</button>
         <li v-for="todo in todos" v-bind:key="todo.id">
           <span>{{ todo.content }}</span>
-          <button v-on:click="removeTodo1(todo.id)">x</button>
+          <button v-on:click="removeTodo(todo.id)">x</button>
         </li>
       </div>
       `,
