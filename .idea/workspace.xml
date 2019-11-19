@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c2946680-f622-40e5-aeba-6b1cb26e175c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/work/191115 실습/디저트.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/work/191115 실습/디저트_input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/work/191115 실습/자석_input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/work/191115 실습/특이한자석.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/work/191114 실습/다리연결.py" beforeDir="false" afterPath="$PROJECT_DIR$/work/191114 실습/다리연결.py" afterDir="false" />
-    </list>
+    <list default="true" id="c2946680-f622-40e5-aeba-6b1cb26e175c" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,7 +12,7 @@
     <session id="1725412191">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
+          <entry key="project.closed" value="6" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.2" value="2" />
@@ -657,14 +650,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="448" y="0" width="1478" height="1047" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15694444" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.106359646" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.106359646" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.45504385" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
