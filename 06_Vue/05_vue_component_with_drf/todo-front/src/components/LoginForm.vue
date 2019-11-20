@@ -4,7 +4,7 @@
       <span class="sr-only">Loading...</span>
     </div>
 
-    <div v-else class="login-form">
+    <form v-else class="login-form" @submit.prevent="login">
       <div v-if="errors.length" class="error-list alert alert-danger">
         <h4>다음의 오류를 해결해주세요.</h4>
         <hr>
@@ -18,7 +18,6 @@
         id="id"
         placeholder="ID를 입력해주세요."
         v-model="credentials.username"
-        @keyup.enter="login"
         >
       </div>
       <div class="form-group">
@@ -29,16 +28,16 @@
         id="password"
         placeholder="PASSWORD를 입력해주세요."
         v-model="credentials.password"
-        @keyup.enter="login"
         >
       </div>
-      <button class="btn btn-primary" @click="login">Login</button>
-    </div>
+      <button type="submit" class="btn btn-primary">Login</button>
+    </form>
   </div>
 </template>
 
 <script>
 import axios from 'axios'
+import router from '../router'
 
 export default {
   name: 'LoginForm',
@@ -48,8 +47,13 @@ export default {
         username: '',
         password: '',
       },
-      loading: false,
+      // loading: false,
       errors: [],
+    }
+  },
+  computed: {
+    loading: function() {
+      return this.$store.state.loading
     }
   },
   methods: {
@@ -57,13 +61,19 @@ export default {
       // 1. 로그인 유효성 검사가 끝나면
       if (this.checkForm()) {
         // 2. loading의 상태를 true로 변경하고(spinner-border가 돈다.)
-        this.loading = true
+        // this.loading = true
+        this.$store.dispatch('startLoading')
         // 3. credentails(username, password) 정보를 담아 djago 서버로 로그인 요청을 보낸다.
-        axios.get('http://127.0.0.1:8000/', this.credentials)
+        axios.post('http://127.0.0.1:8000/api-token-auth/', this.credentials)
         .then(res => {
-          console.log(res)
+          // this.$session.start()
+          this.$store.dispatch('endLoading')
+          // this.$session.set('jwt', res.data.token)
+          this.$store.dispatch('login', res.data.token)
+          router.push('/')
         })
         .catch(err => {
+          this.$store.dispatch('endLoading')
           console.log(err)
         })
       } else {
@@ -77,7 +87,7 @@ export default {
         this.errors.push("ID를 입력해주세요.")
       }
       // 2. 패스워드가 8자 미만인 경우
-      if (this.credentials.password.length < 8) {
+      if (this.credentials.password.length < 3) {
         this.errors.push("비밀번호는 8자이상 입력해주세요.")
       }
       // 3. 아이디와 패스워드를 모두 잘 입력한 경우
