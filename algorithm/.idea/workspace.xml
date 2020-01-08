@@ -1,0 +1,2296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2cea383b-bc58-43ca-a423-07facbde04c1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/algo study/1st_200106~200112/2455_지능형기차.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algo study/1st_200106~200112/8979_input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algo study/1st_200106~200112/8979_올림픽.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algo study/1st_200106~200112/기차_input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/.idea/work.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/0823_과목평가/p1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/0823_과목평가/p2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/0823_과목평가/p3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/0823_과목평가/구미1반_서혜영.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/0823_과목평가/구미1반_서혜영/p1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/0823_과목평가/구미1반_서혜영/p2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/0823_과목평가/구미1반_서혜영/p3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/0823_과목평가/구미1반_서혜영/사각테두리_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/0823_과목평가/구미1반_서혜영/색칠_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/0823_과목평가/구미1반_서혜영/섬_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/0823_과목평가/사각테두리_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/0823_과목평가/색칠_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/0823_과목평가/섬_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/1. List/0812/BubbleSort.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/1. List/0812/baby_gin_greedy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/1. List/0812/countingsort.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/1. List/0812/perm.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/1. List/0812/view.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/1. List/0812/view_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/1. List/0812/view_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/1. List/0812/view_solve_0813.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/1. List/0813/dump.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/1. List/0813/dump_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/1. List/0814/0814 workshop/2D_array.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/1. List/0814/0814 workshop/2D_array_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/1. List/0814/0814 workshop/2d_array_prac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/1. List/0814/0814 workshop/snail.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/1. List/0814/0814 workshop/snail_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/1. List/0814/2D_array.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/1. List/0814/2D_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/1. List/0814/BinarySearch.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/1. List/0814/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/1. List/0814/input_2gen.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/1. List/0814/trans_matrix.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/1. List/0814/부분집합 실습.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/1. List/0814/부분집합.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/1. List/0814/부분집합2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/1. List/0814/선택정렬.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/1. List/0814/순차검색.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/1. List/0816/0816 workshop/prac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/1. List/0816/0816 workshop/screw.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/1. List/0816/0816 workshop/screw_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190813 실습/0813_서혜영/elec_bus_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190813 실습/0813_서혜영/elec_bus_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190813 실습/0813_서혜영/input_elec.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190813 실습/0813_서혜영/min_max.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190813 실습/0813_서혜영/minmax_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190813 실습/0813_서혜영/numcard.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190813 실습/0813_서혜영/numcard_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190813 실습/0813_서혜영/prefix_sum.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190813 실습/0813_서혜영/sum_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190816 실습/0816_서혜영/부분집합_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190816 실습/0816_서혜영/부분집합합.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190816 실습/0816_서혜영/색칠하기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190816 실습/0816_서혜영/색칠하기_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190816 실습/0816_서혜영/이진탐색.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190816 실습/0816_서혜영/이진탐색_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190816 실습/0816_서혜영/특별한정렬.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190816 실습/0816_서혜영/특별한정렬_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190820 실습/서혜영_0820.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190820 실습/서혜영_0820/max회문.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190820 실습/서혜영_0820/권대민.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190820 실습/서혜영_0820/글자수.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190820 실습/서혜영_0820/글자수_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190820 실습/서혜영_0820/문자열_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190820 실습/서혜영_0820/문자열비교.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190820 실습/서혜영_0820/이현우.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190820 실습/서혜영_0820/최장회문찾기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190820 실습/서혜영_0820/회문.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190820 실습/서혜영_0820/회문2_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190820 실습/서혜영_0820/회문_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190822 실습/괄호_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190822 실습/괄호검사.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190822 실습/그래프_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190822 실습/그래프경로.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190822 실습/반복문자_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190822 실습/반복문자지우기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190822 실습/종이_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190822 실습/종이붙이기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190827 모의고사/adv/연습.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190827 모의고사/adv/원자.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190827 모의고사/adv/원자_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190827 모의고사/색칠_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190827 모의고사/색칠하기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190827 실습/0827_서혜영.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190827 실습/0827_서혜영/계산기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190827 실습/0827_서혜영/계산기_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190827 실습/0827_서혜영/미로.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190827 실습/0827_서혜영/미로_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190827 실습/0827_서혜영/최소합.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190827 실습/0827_서혜영/최소합_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190827 실습/가위바위보.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190827 실습/가위바위보_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190827 실습/계산기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190827 실습/계산기_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190827 실습/미로.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190827 실습/미로_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190827 실습/최소합.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190827 실습/최소합_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190829 실습/노드_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190829 실습/노드거리.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190829 실습/미로.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190829 실습/미로_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190829 실습/피자.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190829 실습/피자_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190829 실습/회전.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190829 실습/회전_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190902 실습/길찾기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190902 실습/길찾기_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190902 실습/미로2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190902 실습/미로2_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190902 실습/박교열 자석.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190902 실습/자석.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190902 실습/자석_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190902 실습/행렬.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190902 실습/행렬0903.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190902 실습/행렬2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190902 실습/행렬찾기_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190903 실습/단조증가.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190903 실습/대민델로.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190903 실습/세로읽기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190903 실습/오델로다시.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190903 실습/오셀로.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190903 실습/오셀로_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190903 실습/의석이_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190903 실습/이거뭐냐.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190903 실습/정곤_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190903 실습/파리_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190903 실습/파리퇴치.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190904 실습/2048.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190904 실습/2048_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190904 실습/단어_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190904 실습/새로운 연산2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190904 실습/새로운연산.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190904 실습/어디단어.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190904 실습/연산_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190904 실습/추억의2048.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190904 실습/파스칼_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190904 실습/파스칼삼각형.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190905 실습/2자리 소수.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190905 실습/2자리 소수_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190905 실습/농작물.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190905 실습/농작물_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190905 실습/되 나눔수.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190905 실습/되 나눔수_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190905 실습/배열회전.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190905 실습/배열회전_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190905 실습/스도쿠.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190905 실습/스도쿠_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190905 실습/킨도2자리소수.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190907 실습/ladder2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190907 실습/ladder2_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190907 실습/격자판_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190907 실습/격자판숫자.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190907 실습/경로_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190907 실습/사다리 왜이래.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190907 실습/사다리dfs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190907 실습/최적경로.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190910 실습/190920 실습(Adv분할정복)/0920 서혜영.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190910 실습/190920 실습(Adv분할정복)/병합.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190910 실습/190920 실습(Adv분할정복)/병합_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190910 실습/190920 실습(Adv분할정복)/이진_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190910 실습/190920 실습(Adv분할정복)/이진탐색.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190910 실습/190920 실습(Adv분할정복)/전기_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190910 실습/190920 실습(Adv분할정복)/전기버스2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190910 실습/190920 실습(Adv분할정복)/최소_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190910 실습/190920 실습(Adv분할정복)/최소생산비용.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190910 실습/190920 실습(Adv분할정복)/퀵 정렬.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190910 실습/190920 실습(Adv분할정복)/퀵_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190910 실습/subtree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190910 실습/subtree_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190910 실습/노드의합.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190910 실습/노드의합_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190910 실습/서혜영_0910.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190910 실습/서혜영_0910/subtree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190910 실습/서혜영_0910/subtree_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190910 실습/서혜영_0910/노드의합.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190910 실습/서혜영_0910/노드의합_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190910 실습/서혜영_0910/이진탐색.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190910 실습/서혜영_0910/이진탐색_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190910 실습/서혜영_0910/이진힙.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190910 실습/서혜영_0910/이진힙_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190910 실습/이진탐색.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190910 실습/이진탐색_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190910 실습/이진힙.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190910 실습/이진힙_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190916 실습/0916_서혜영.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190916 실습/0916_서혜영/단순2진암호.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190916 실습/0916_서혜영/단순2진암호_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190916 실습/0916_서혜영/이진수.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190916 실습/0916_서혜영/이진수2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190916 실습/0916_서혜영/이진수2_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190916 실습/0916_서혜영/이진수_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190916 실습/암호코드스캔.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190916 실습/암호코드스캔_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190916 실습/이진수.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190916 실습/이진수2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190916 실습/이진수2_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190916 실습/이진수_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190918 실습(Adv완전검색)/0918_서혜영.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190918 실습(Adv완전검색)/0918_서혜영/전자카트.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190918 실습(Adv완전검색)/0918_서혜영/최소합.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190918 실습(Adv완전검색)/0918_서혜영/최소합_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190918 실습(Adv완전검색)/0918_서혜영/카트_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190918 실습(Adv완전검색)/0918_서혜영/컨테이너.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190918 실습(Adv완전검색)/0918_서혜영/컨테이너_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190918 실습(Adv완전검색)/0918_서혜영/화물도크.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190918 실습(Adv완전검색)/0918_서혜영/화물도크_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190918 실습(Adv완전검색)/베이비진 게임.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190918 실습(Adv완전검색)/베이비진_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190920 실습(Adv분할정복)/0920 서혜영.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190920 실습(Adv분할정복)/병합.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190920 실습(Adv분할정복)/병합_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190920 실습(Adv분할정복)/이진_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190920 실습(Adv분할정복)/이진탐색.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190920 실습(Adv분할정복)/전기_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190920 실습(Adv분할정복)/전기버스2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190920 실습(Adv분할정복)/최소_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190920 실습(Adv분할정복)/최소생산비용.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190920 실습(Adv분할정복)/퀵 정렬.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190920 실습(Adv분할정복)/퀵_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190924 실습(Adv 그래프 기본)/그룹나누기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190924 실습(Adv 그래프 기본)/그룹나누기_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190924 실습(Adv 그래프 기본)/연산.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190924 실습(Adv 그래프 기본)/연산_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190924 실습(Adv 그래프 최소비용)/서혜영_0924.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190924 실습(Adv 그래프 최소비용)/서혜영_0924/그룹나누기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190924 실습(Adv 그래프 최소비용)/서혜영_0924/그룹나누기_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190924 실습(Adv 그래프 최소비용)/서혜영_0924/연산.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190924 실습(Adv 그래프 최소비용)/서혜영_0924/연산_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190924 실습(Adv 그래프 최소비용)/서혜영_0924/최소비용.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190924 실습(Adv 그래프 최소비용)/서혜영_0924/최소비용_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190924 실습(Adv 그래프 최소비용)/서혜영_0924/최소이동거리.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190924 실습(Adv 그래프 최소비용)/서혜영_0924/최소이동거리_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190924 실습(Adv 그래프 최소비용)/최소비용.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190924 실습(Adv 그래프 최소비용)/최소비용_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190924 실습(Adv 그래프 최소비용)/최소이동거리.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190924 실습(Adv 그래프 최소비용)/최소이동거리_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190925 실습/정사각형방.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190925 실습/정사각형방_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190925 실습/창용 마을.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190925 실습/창용마을_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190925 실습/최대상금.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190925 실습/최대상금_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190926 실습/사람_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/190926 실습/사람네트워크.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/191112 실습/등산로.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/191112 실습/등산로_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/191112 실습/연구소.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/191112 실습/연구소_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/191112 실습/점심.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/191112 실습/점심_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/191112 실습/점심시간_1113.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/191113 실습/게리맨더링.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/191113 실습/게리맨더링_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/191113 실습/방범_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/191113 실습/방범서비스.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/191113 실습/숫자_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/191113 실습/숫자만들기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/191113 실습/숫자만들기_평강공주.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/191114 실습/다리_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/191114 실습/다리연결.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/191114 실습/요리사.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/191114 실습/요리사_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/191114 실습/탈주범.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/191114 실습/탈주범_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/191115 실습/디저트.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/191115 실습/디저트_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/191115 실습/자석_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/191115 실습/특이한자석.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/191223/.idea/191223.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/191223/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/191223/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/191223/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/191223/2573_빙산.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/191223/빙산_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/2. String/0819/0819 workshop/max파리.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/2. String/0819/0819 workshop/p_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/2. String/0819/0819 workshop/palindrome.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/2. String/0819/0819 workshop/파리_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/2. String/0819/atoi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/2. String/0819/bit암호화.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/2. String/0819/brute_고지식방법.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/2. String/0819/itoa.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/2. String/0819/ord_chr.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/2. String/0819/reverse_prac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/2. String/0819/str_repr.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/2. String/0820/0820 workshop/GNS.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/2. String/0820/0820 workshop/GNS_test_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/3. Stack/0821/0821 workshop/사다리.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/3. Stack/0821/0821 workshop/사다리_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/3. Stack/0821/DFS_Recursion.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/3. Stack/0821/factorial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/3. Stack/0821/fibo_DP.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/3. Stack/0821/fibo_memo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/3. Stack/0821/stack.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/3. Stack/0821/괄호검사.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/3. Stack/0821/두더지.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/3. Stack/0821/두더지_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/3. Stack/0821/연습3_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/3. Stack/0822/작업_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/3. Stack/0822/작업순서.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/3. Stack/0823/0823 workshop/미로.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/3. Stack/0823/0823 workshop/미로2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/3. Stack/0823/0823 workshop/미로_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/3. Stack/0826/0826 workshop/계산기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/3. Stack/0826/0826 workshop/계산기_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/3. Stack/0826/거듭제곱_for.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/3. Stack/0826/거듭제곱_분할정복.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/3. Stack/0826/부분집합.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/3. Stack/0826/부분집합_연습2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/3. Stack/0826/순열_babygin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/3. Stack/0826/순열_재귀.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/3. Stack/0826/스택2_연습1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/3. Stack/0827/순열_조합.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/4. Queue/0828/BFS.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/4. Queue/0828/큐.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/4. Queue/0828/큐_연습1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/4. Queue/0828/큐_연습_풀이.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/4. Queue/0828/큐_원형.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/4. Queue/0829/0829 workshop/연락_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/4. Queue/0829/0829 workshop/연락하기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/5. Tree/0909/0909 workshop/공통조상.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/5. Tree/0909/0909 workshop/공통조상_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/5. Tree/0909/0909 workshop/중위순회.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/5. Tree/0909/0909 workshop/중위순회_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/5. Tree/0909/교열순회.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/5. Tree/0909/트리_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/5. Tree/0909/트리_연습.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/5. Tree/0909/힙.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/5. Tree/0910 workshop/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/5. Tree/0910 workshop/교열연산.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/5. Tree/0910 workshop/사칙연산.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/5. Tree/0910 workshop/사칙연산_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/5. combination/조합 더하기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/5. combination/조합_dfs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/5. combination/중복조합.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/6. Start/0911연습.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/6. Start/그대로받기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/6. Start/비트연산.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/6. Start/연습_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/6. Start/연습문제2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/6. Start/입력_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/7. 완전 검색 &amp; 그리디/baby-gin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/7. 완전 검색 &amp; 그리디/babygin_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/7. 완전 검색 &amp; 그리디/factorial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/7. 완전 검색 &amp; 그리디/while1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/7. 완전 검색 &amp; 그리디/부분집합.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/7. 완전 검색 &amp; 그리디/부분집합_연습3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/7. 완전 검색 &amp; 그리디/선택정렬.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/7. 완전 검색 &amp; 그리디/순열.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/7. 완전 검색 &amp; 그리디/재귀.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/7. 완전 검색 &amp; 그리디/재귀_selection.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/7. 완전 검색 &amp; 그리디/조합.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/7. 완전 검색 &amp; 그리디/중복 순열.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/7. 완전 검색 &amp; 그리디/중복조함.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/8. 분할정복 &amp; 백트래킹/Merge Sort.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/8. 분할정복 &amp; 백트래킹/rec_power.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/8. 분할정복 &amp; 백트래킹/이진 검색(Binary Search).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/8. 분할정복 &amp; 백트래킹/퀵 정렬.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/8. 분할정복 &amp; 백트래킹/퀵 정렬_긴도니.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/9. 그래프/0923_서혜영.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/9. 그래프/0923_서혜영/최소신장트리(kruskal ver.).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/9. 그래프/0923_서혜영/최소신장트리.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/9. 그래프/0923_서혜영/최소신장트리_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/9. 그래프/MST(prim ver.).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/9. 그래프/최소신장트리(kruskal ver.).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/9. 그래프/최소신장트리.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/9. 그래프/최소신장트리_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/sub_lect/536.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/sub_lect/537.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/sub_lect/538.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/sub_lect/539.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/sub_lect/540.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/sub_lect/541.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/sub_lect/542.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/sub_lect/544.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/sub_lect/545.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/sub_lect/adv/0902장훈이.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/sub_lect/adv/0904상원이.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/sub_lect/adv/0904상원이bfs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/sub_lect/adv/동철_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/sub_lect/adv/동철이.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/sub_lect/adv/보급로.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/sub_lect/adv/보급로2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/sub_lect/adv/보급로_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/sub_lect/adv/상원이_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/sub_lect/adv/어려워.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/sub_lect/adv/장훈이_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/sub_lect/adv/장훈이풀이.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/easy-install.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/EGG-INFO/PKG-INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/EGG-INFO/SOURCES.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/EGG-INFO/dependency_links.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/EGG-INFO/entry_points.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/EGG-INFO/not-zip-safe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/EGG-INFO/requires.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/EGG-INFO/top_level.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/__main__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_internal/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_internal/basecommand.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_internal/baseparser.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_internal/build_env.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_internal/cache.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_internal/cmdoptions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_internal/commands/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_internal/commands/check.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_internal/commands/completion.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_internal/commands/configuration.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_internal/commands/download.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_internal/commands/freeze.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_internal/commands/hash.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_internal/commands/help.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_internal/commands/install.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_internal/commands/list.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_internal/commands/search.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_internal/commands/show.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_internal/commands/uninstall.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_internal/commands/wheel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_internal/compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_internal/configuration.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_internal/download.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_internal/exceptions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_internal/index.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_internal/locations.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_internal/models/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_internal/models/index.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_internal/operations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_internal/operations/check.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_internal/operations/freeze.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_internal/operations/prepare.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_internal/pep425tags.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_internal/req/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_internal/req/req_file.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_internal/req/req_install.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_internal/req/req_set.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_internal/req/req_uninstall.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_internal/resolve.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_internal/status_codes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_internal/utils/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_internal/utils/appdirs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_internal/utils/deprecation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_internal/utils/encoding.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_internal/utils/filesystem.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_internal/utils/glibc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_internal/utils/hashes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_internal/utils/logging.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_internal/utils/misc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_internal/utils/outdated.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_internal/utils/packaging.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_internal/utils/setuptools_build.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_internal/utils/temp_dir.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_internal/utils/typing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_internal/utils/ui.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_internal/vcs/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_internal/vcs/bazaar.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_internal/vcs/git.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_internal/vcs/mercurial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_internal/vcs/subversion.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_internal/wheel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/appdirs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/cachecontrol/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/cachecontrol/_cmd.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/cachecontrol/adapter.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/cachecontrol/cache.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/cachecontrol/caches/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/cachecontrol/caches/file_cache.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/cachecontrol/caches/redis_cache.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/cachecontrol/compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/cachecontrol/controller.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/cachecontrol/filewrapper.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/cachecontrol/heuristics.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/cachecontrol/serialize.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/cachecontrol/wrapper.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/certifi/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/certifi/__main__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/certifi/cacert.pem" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/certifi/core.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/chardet/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/chardet/big5freq.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/chardet/big5prober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/chardet/chardistribution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/chardet/charsetgroupprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/chardet/charsetprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/chardet/cli/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/chardet/cli/chardetect.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/chardet/codingstatemachine.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/chardet/compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/chardet/cp949prober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/chardet/enums.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/chardet/escprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/chardet/escsm.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/chardet/eucjpprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/chardet/euckrfreq.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/chardet/euckrprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/chardet/euctwfreq.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/chardet/euctwprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/chardet/gb2312freq.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/chardet/gb2312prober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/chardet/hebrewprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/chardet/jisfreq.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/chardet/jpcntx.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/chardet/langbulgarianmodel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/chardet/langcyrillicmodel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/chardet/langgreekmodel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/chardet/langhebrewmodel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/chardet/langhungarianmodel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/chardet/langthaimodel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/chardet/langturkishmodel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/chardet/latin1prober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/chardet/mbcharsetprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/chardet/mbcsgroupprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/chardet/mbcssm.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/chardet/sbcharsetprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/chardet/sbcsgroupprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/chardet/sjisprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/chardet/universaldetector.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/chardet/utf8prober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/chardet/version.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/colorama/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/colorama/ansi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/colorama/ansitowin32.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/colorama/initialise.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/colorama/win32.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/colorama/winterm.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/distlib/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/distlib/_backport/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/distlib/_backport/misc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/distlib/_backport/shutil.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/distlib/_backport/sysconfig.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/distlib/_backport/sysconfig.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/distlib/_backport/tarfile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/distlib/compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/distlib/database.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/distlib/index.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/distlib/locators.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/distlib/manifest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/distlib/markers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/distlib/metadata.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/distlib/resources.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/distlib/scripts.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/distlib/t32.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/distlib/t64.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/distlib/util.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/distlib/version.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/distlib/w32.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/distlib/w64.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/distlib/wheel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/distro.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/html5lib/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/html5lib/_ihatexml.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/html5lib/_inputstream.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/html5lib/_tokenizer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/html5lib/_trie/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/html5lib/_trie/_base.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/html5lib/_trie/datrie.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/html5lib/_trie/py.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/html5lib/_utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/html5lib/constants.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/html5lib/filters/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/html5lib/filters/alphabeticalattributes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/html5lib/filters/base.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/html5lib/filters/inject_meta_charset.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/html5lib/filters/lint.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/html5lib/filters/optionaltags.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/html5lib/filters/sanitizer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/html5lib/filters/whitespace.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/html5lib/html5parser.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/html5lib/serializer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/html5lib/treeadapters/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/html5lib/treeadapters/genshi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/html5lib/treeadapters/sax.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/html5lib/treebuilders/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/html5lib/treebuilders/base.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/html5lib/treebuilders/dom.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/html5lib/treebuilders/etree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/html5lib/treebuilders/etree_lxml.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/html5lib/treewalkers/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/html5lib/treewalkers/base.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/html5lib/treewalkers/dom.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/html5lib/treewalkers/etree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/html5lib/treewalkers/etree_lxml.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/html5lib/treewalkers/genshi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/idna/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/idna/codec.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/idna/compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/idna/core.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/idna/idnadata.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/idna/intranges.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/idna/package_data.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/idna/uts46data.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/ipaddress.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/lockfile/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/lockfile/linklockfile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/lockfile/mkdirlockfile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/lockfile/pidlockfile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/lockfile/sqlitelockfile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/lockfile/symlinklockfile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/msgpack/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/msgpack/_version.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/msgpack/exceptions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/msgpack/fallback.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/packaging/__about__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/packaging/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/packaging/_compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/packaging/_structures.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/packaging/markers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/packaging/requirements.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/packaging/specifiers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/packaging/utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/packaging/version.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/pkg_resources/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/pkg_resources/py31compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/progress/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/progress/bar.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/progress/counter.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/progress/helpers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/progress/spinner.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/pyparsing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/pytoml/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/pytoml/core.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/pytoml/parser.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/pytoml/writer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/requests/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/requests/__version__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/requests/_internal_utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/requests/adapters.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/requests/api.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/requests/auth.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/requests/certs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/requests/compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/requests/cookies.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/requests/exceptions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/requests/help.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/requests/hooks.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/requests/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/requests/packages.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/requests/sessions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/requests/status_codes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/requests/structures.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/requests/utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/retrying.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/six.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/urllib3/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/urllib3/_collections.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/urllib3/connection.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/urllib3/connectionpool.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/urllib3/contrib/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/urllib3/contrib/_securetransport/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/urllib3/contrib/_securetransport/bindings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/urllib3/contrib/_securetransport/low_level.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/urllib3/contrib/appengine.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/urllib3/contrib/ntlmpool.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/urllib3/contrib/pyopenssl.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/urllib3/contrib/securetransport.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/urllib3/contrib/socks.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/urllib3/exceptions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/urllib3/fields.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/urllib3/filepost.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/urllib3/packages/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/urllib3/packages/backports/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/urllib3/packages/backports/makefile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/urllib3/packages/ordered_dict.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/urllib3/packages/six.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/urllib3/packages/ssl_match_hostname/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/urllib3/packages/ssl_match_hostname/_implementation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/urllib3/poolmanager.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/urllib3/request.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/urllib3/response.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/urllib3/util/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/urllib3/util/connection.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/urllib3/util/request.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/urllib3/util/response.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/urllib3/util/retry.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/urllib3/util/selectors.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/urllib3/util/ssl_.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/urllib3/util/timeout.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/urllib3/util/url.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/urllib3/util/wait.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/webencodings/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/webencodings/labels.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/webencodings/mklabels.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/webencodings/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/webencodings/x_user_defined.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/setuptools-39.1.0-py3.5.egg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/site-packages/setuptools.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Lib/tcl8.6/init.tcl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Scripts/Activate.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Scripts/_bz2.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Scripts/_ctypes.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Scripts/_ctypes_test.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Scripts/_decimal.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Scripts/_elementtree.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Scripts/_hashlib.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Scripts/_lzma.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Scripts/_msi.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Scripts/_multiprocessing.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Scripts/_overlapped.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Scripts/_socket.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Scripts/_sqlite3.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Scripts/_ssl.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Scripts/_testbuffer.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Scripts/_testcapi.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Scripts/_testimportmultiple.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Scripts/_testmultiphase.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Scripts/_tkinter.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Scripts/activate.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Scripts/deactivate.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Scripts/easy_install-3.5-script.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Scripts/easy_install-3.5.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Scripts/easy_install-script.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Scripts/easy_install.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Scripts/pip-script.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Scripts/pip.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Scripts/pip3-script.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Scripts/pip3.5-script.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Scripts/pip3.5.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Scripts/pip3.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Scripts/pyexpat.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Scripts/python.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Scripts/python3.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Scripts/python35.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Scripts/pythonw.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Scripts/select.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Scripts/sqlite3.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Scripts/tcl86t.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Scripts/tk86t.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Scripts/unicodedata.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Scripts/vcruntime140.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/Scripts/winsound.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work/venv/pyvenv.cfg" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-640711800">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="32" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="3" />
+          <entry key="project.open.time.2" value="15" />
+          <entry key="project.open.time.3" value="12" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="32" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="numcard_input" value="2" />
+          <entry key="py" value="260" />
+          <entry key="txt" value="117" />
+          <entry key="view_input" value="2" />
+          <entry key="계산기_input" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PLAIN_TEXT" value="122" />
+          <entry key="Python" value="260" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="24" />
+          <entry key="py" value="45370" />
+          <entry key="txt" value="170" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="194" />
+          <entry key="Python" value="45370" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-1942377289">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="1642841413">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="4" />
+          <entry key="txt" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="Python" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="1068" />
+          <entry key="txt" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="Python" value="1068" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="vertical" split-proportion="0.7799228">
+      <split-first>
+        <leaf>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/algo study/1st_200106~200112/8979_올림픽.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="263">
+                  <caret line="36" column="24" selection-start-line="36" selection-start-column="24" selection-end-line="36" selection-end-column="24" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/algo study/1st_200106~200112/2455_지능형기차.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="-8">
+                  <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/algo study/1st_200106~200112/8979_input.txt">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="64">
+                  <caret line="4" column="7" lean-forward="true" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/3. Stack/0822/작업순서.py" />
+        <option value="$PROJECT_DIR$/3. Stack/0821/두더지.py" />
+        <option value="$PROJECT_DIR$/3. Stack/0823/0823 workshop/미로_input.txt" />
+        <option value="$PROJECT_DIR$/3. Stack/0823/0823 workshop/미로2.py" />
+        <option value="$PROJECT_DIR$/3. Stack/0826/스택2_연습1.py" />
+        <option value="$PROJECT_DIR$/3. Stack/0823/0823 workshop/미로.py" />
+        <option value="$PROJECT_DIR$/3. Stack/0823/부분집합.py" />
+        <option value="$PROJECT_DIR$/3. Stack/0826/부분집합.py" />
+        <option value="$PROJECT_DIR$/3. Stack/0826/부분집합_연습2.py" />
+        <option value="$PROJECT_DIR$/1. List/0812/baby_gin_greedy.py" />
+        <option value="$PROJECT_DIR$/3. Stack/0826/순열_babygin.py" />
+        <option value="$PROJECT_DIR$/3. Stack/0826/거듭제곱_for.py" />
+        <option value="$PROJECT_DIR$/3. Stack/0826/거듭제곱_분할정복.py" />
+        <option value="$PROJECT_DIR$/3. Stack/0826/0826 workshop/계산기_input.txt" />
+        <option value="$PROJECT_DIR$/3. Stack/0826/순열_재귀.py" />
+        <option value="$PROJECT_DIR$/3. Stack/0827/순열_조합.py" />
+        <option value="$PROJECT_DIR$/3. Stack/0826/0826 workshop/계산기.py" />
+        <option value="$PROJECT_DIR$/190827 실습/계산기_input.txt" />
+        <option value="$PROJECT_DIR$/190827 실습/계산기.py" />
+        <option value="$PROJECT_DIR$/190827 실습/미로_input.txt" />
+        <option value="$PROJECT_DIR$/190827 실습/미로.py" />
+        <option value="$PROJECT_DIR$/190827 실습/최소합_input.txt" />
+        <option value="$PROJECT_DIR$/190827 실습/최소합.py" />
+        <option value="$PROJECT_DIR$/190827 실습/가위바위보_input.txt" />
+        <option value="$PROJECT_DIR$/190827 실습/가위바위보.py" />
+        <option value="$PROJECT_DIR$/190827 모의고사/색칠_input.txt" />
+        <option value="$PROJECT_DIR$/190827 모의고사/색칠하기.py" />
+        <option value="$PROJECT_DIR$/190822 실습/그래프경로.py" />
+        <option value="$PROJECT_DIR$/4. Queue/0828/큐_연습1.py" />
+        <option value="$PROJECT_DIR$/4. Queue/0828/큐.py" />
+        <option value="$PROJECT_DIR$/4. Queue/0828/큐_연습_풀이.py" />
+        <option value="$PROJECT_DIR$/4. Queue/0828/BFS.py" />
+        <option value="$PROJECT_DIR$/190827 모의고사/adv/원자_input.txt" />
+        <option value="$PROJECT_DIR$/190827 모의고사/adv/원자.py" />
+        <option value="$PROJECT_DIR$/190827 모의고사/adv/연습.py" />
+        <option value="$PROJECT_DIR$/190829 실습/노드_input.txt" />
+        <option value="$PROJECT_DIR$/190829 실습/노드거리.py" />
+        <option value="$PROJECT_DIR$/190829 실습/미로_input.txt" />
+        <option value="$PROJECT_DIR$/190829 실습/미로.py" />
+        <option value="$PROJECT_DIR$/190829 실습/회전_input.txt" />
+        <option value="$PROJECT_DIR$/190829 실습/회전.py" />
+        <option value="$PROJECT_DIR$/4. Queue/0828/큐_원형.py" />
+        <option value="$PROJECT_DIR$/190829 실습/피자1_input.txt" />
+        <option value="$PROJECT_DIR$/190829 실습/피자_input.txt" />
+        <option value="$PROJECT_DIR$/190829 실습/피자.py" />
+        <option value="$PROJECT_DIR$/4. Queue/0829/0829 workshop/연락_input.txt" />
+        <option value="$PROJECT_DIR$/4. Queue/0829/0829 workshop/연락하기.py" />
+        <option value="$PROJECT_DIR$/algo study/1st_200106~200112/기차_input.txt" />
+        <option value="$PROJECT_DIR$/algo study/1st_200106~200112/2455_지능형기차.py" />
+        <option value="$PROJECT_DIR$/algo study/1st_200106~200112/8979_input.txt" />
+        <option value="$PROJECT_DIR$/algo study/1st_200106~200112/8979_올림픽.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="width" value="977" />
+    <option name="height" value="1038" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="algo study" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="algo study" type="462c0819:PsiDirectoryNode" />
+              <item name="1st_200106~200112" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/TIL/algorithm/algo study/1st_200106~200112/2455_지능형기차.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\student\TIL\work\3. Stack\0826" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.8979_올림픽">
+    <configuration name="원자" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/190827 모의고사/adv" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/190827 모의고사/adv/원자.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2455_지능형기차" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algo study/1st_200106~200112" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algo study/1st_200106~200112/2455_지능형기차.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="8979_올림픽" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algo study/1st_200106~200112" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algo study/1st_200106~200112/8979_올림픽.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="회문" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/190820 실습" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/190820 실습/회문.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="노드거리" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/190829 실습" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/190829 실습/노드거리.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="피자" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/190829 실습" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/190829 실습/피자.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="최소합" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/190827 실습" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/190827 실습/최소합.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="가위바위보" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/190827 실습" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/190827 실습/가위바위보.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="문자열비교" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/190820 실습" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/190820 실습/문자열비교.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="미로" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3. Stack/0823/0823 workshop" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3. Stack/0823/0823 workshop/미로.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="최장회문찾기" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/190820 실습/서혜영_0820" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/190820 실습/서혜영_0820/최장회문찾기.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="미로" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/190829 실습" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/190829 실습/미로.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="피자" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/190829 실습" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/190829 실습/피자.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="두더지" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3. Stack/0821" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3. Stack/0821/두더지.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="회전" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/190829 실습" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/190829 실습/회전.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="피자" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/190829 실습" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/190829 실습/피자.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="미로" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/190827 실습" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/190827 실습/미로.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="연락하기" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4. Queue/0829/0829 workshop" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4. Queue/0829/0829 workshop/연락하기.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="최소합" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/190827 실습" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/190827 실습/최소합.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="미로" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3. Stack/0823/0823 workshop" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3. Stack/0823/0823 workshop/미로.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="색칠하기" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/190827 모의고사" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/190827 모의고사/색칠하기.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="피자" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/190829 실습" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/190829 실습/피자.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="미로" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/190827 실습" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/190827 실습/미로.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="작업순서" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3. Stack/0822" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3. Stack/0822/작업순서.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="그래프경로" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/190822 실습" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/190822 실습/그래프경로.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="사다리" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3. Stack/0821/0821 workshop" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3. Stack/0821/0821 workshop/사다리.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="최장회문찾기" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/190820 실습/서혜영_0820" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/190820 실습/서혜영_0820/최장회문찾기.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="피자" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/190829 실습" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/190829 실습/피자.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="큐" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4. Queue/0828" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4. Queue/0828/큐.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="미로" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3. Stack/0823/0823 workshop" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3. Stack/0823/0823 workshop/미로.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="연습" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/190827 모의고사/adv" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/190827 모의고사/adv/연습.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="큐_원형" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4. Queue/0828" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4. Queue/0828/큐_원형.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.원자" />
+      <item itemvalue="Python.큐_원형" />
+      <item itemvalue="Python.2455_지능형기차" />
+      <item itemvalue="Python.8979_올림픽" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.8979_올림픽" />
+        <item itemvalue="Python.2455_지능형기차" />
+        <item itemvalue="Python.원자" />
+        <item itemvalue="Python.큐_원형" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2cea383b-bc58-43ca-a423-07facbde04c1" name="Default Changelist" comment="" />
+      <created>1565579084960</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565579084960</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-6" y="0" width="781" height="830" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19354838" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32894737" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.25574714" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4964539" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32894737" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32894737" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32894737" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1. List/0813/dump.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1. List/0813/dump.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sub_lect/539.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/190813 실습/0813_서혜영/elec_bus_2.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/2. String/0819/itoa.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/2. String/0819/0819 workshop/palindrome.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/2. String/0819/0819 workshop/max파리.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/190820 실습/서혜영_0820/최장회문찾기.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/190820 실습/서혜영_0820/회문.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/190820 실습/서혜영_0820/max회문.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/3. Stack/0821/factorial.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/3. Stack/0821/fibo_memo.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/3. Stack/0821/두더지.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/3. Stack/0821/0821 workshop/사다리.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/190822 실습/반복문자지우기.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/190822 실습/괄호검사.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/3. Stack/0826/부분집합.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/3. Stack/0826/부분집합_연습2.py</url>
+          <line>50</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/190827 실습/계산기.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/190827 실습/최소합.py</url>
+          <line>56</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/190827 모의고사/색칠하기.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/190827 모의고사/adv/원자.py</url>
+          <line>52</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/190829 실습/노드거리.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/190829 실습/미로.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/190829 실습/피자.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/4. Queue/0829/0829 workshop/연락하기.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/algo study/1st_200106~200112/2455_지능형기차.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/algo study/1st_200106~200112/8979_올림픽.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>half_pizza</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>pizza.pop(0)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>pizza</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>stove.pop(0)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>pizza[n]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>N</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>V</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>arr</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>visited</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Q</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/1. List/0812/baby_gin_greedy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3. Stack/0823/0823 workshop/미로.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="6" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3. Stack/0826/스택2_연습1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3. Stack/0827/순열_조합.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="11" lean-forward="true" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3. Stack/0826/0826 workshop/계산기_input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="3" lean-forward="true" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/190827 실습/계산기_input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="9" lean-forward="true" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/190827 실습/미로_input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3. Stack/0823/0823 workshop/미로2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/190827 실습/최소합_input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3. Stack/0826/부분집합.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/190827 실습/가위바위보_input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3. Stack/0826/0826 workshop/계산기.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="66" column="23" selection-start-line="66" selection-start-column="23" selection-end-line="66" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/190827 실습/가위바위보.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/190822 실습/괄호검사.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="32" column="39" lean-forward="true" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/190822 실습/그래프경로.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="24" lean-forward="true" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/190822 실습/반복문자지우기.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3. Stack/0826/부분집합_연습2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="36" selection-start-line="29" selection-start-column="36" selection-end-line="29" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3. Stack/0826/순열_재귀.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="13" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3. Stack/0826/순열_babygin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3. Stack/0826/거듭제곱_for.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3. Stack/0826/거듭제곱_분할정복.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/190827 실습/미로.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="56" selection-start-line="38" selection-start-column="56" selection-end-line="38" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4. Queue/0828/큐.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="1663" selection-start-line="1663" selection-end-line="1663" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4. Queue/0828/큐_연습1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="39" selection-start-line="39" selection-end-line="45" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/190827 모의고사/adv/원자_input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4. Queue/0828/큐_연습_풀이.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" selection-start-line="35" selection-end-line="41" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/190827 실습/최소합.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/190827 실습/계산기.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="577">
+          <caret line="45" column="35" selection-start-line="45" selection-start-column="35" selection-end-line="45" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/190827 모의고사/adv/연습.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/190829 실습/노드_input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="250" column="3" lean-forward="true" selection-start-line="250" selection-start-column="3" selection-end-line="250" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/190829 실습/미로_input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/190827 모의고사/색칠_input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="10" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4. Queue/0828/BFS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/190827 모의고사/색칠하기.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="16" lean-forward="true" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/190829 실습/회전_input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="55" selection-start-line="6" selection-start-column="55" selection-end-line="6" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4. Queue/0828/큐_원형.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="17" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/190829 실습/피자1_input.txt" />
+    <entry file="file://$PROJECT_DIR$/190829 실습/피자_input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/190827 모의고사/adv/원자.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="383">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4. Queue/0829/0829 workshop/연락_input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="12" lean-forward="true" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4. Queue/0829/0829 workshop/연락하기.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="13" lean-forward="true" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/190829 실습/피자.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/190829 실습/회전.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="7" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/190829 실습/미로.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/190829 실습/노드거리.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="15" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algo study/1st_200106~200112/기차_input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algo study/1st_200106~200112/2455_지능형기차.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algo study/1st_200106~200112/8979_input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="7" lean-forward="true" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algo study/1st_200106~200112/8979_올림픽.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="36" column="24" selection-start-line="36" selection-start-column="24" selection-end-line="36" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
